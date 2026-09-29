@@ -1,0 +1,8 @@
+
+# Playwright
+node_modules/
+/playwright/.cache/
+/playwright/.auth/
+
+# test-results/ and playwright-report/ are intentionally NOT ignored - the report,
+# screenshots and videos are committed so they can be reviewed alongside the code.
